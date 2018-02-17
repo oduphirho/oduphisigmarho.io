@@ -3,7 +3,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  background-image: url("../img/orchids.png");
+  background-image: url("../img/orchids.jpg");
 }
 
 h1,
@@ -69,7 +69,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: #722f37;
   font-family: 'Raleway';
 }
 
@@ -127,6 +127,15 @@ p {
     left: 0;
     position: absolute;
     bottom: -2rem;
+  }
+
+  .intro-test{
+    left: 0;
+    width: 40%;
+    position: absolute;
+    margin-bottom: 3rem;
+    top: 350px;
+
   }
 }
 
