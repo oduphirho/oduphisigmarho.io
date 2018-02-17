@@ -3,7 +3,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  background-image: url("../img/orchids.jpg");
+  background-image: url("../img/pearls.jpg");
 }
 
 h1,
@@ -35,6 +35,7 @@ p {
   display: block;
   font-size: 2rem;
   font-weight: 800;
+  color: #c0c0c0;
 }
 
 .site-heading .site-heading-lower {
@@ -69,12 +70,12 @@ p {
 }
 
 #mainNav {
-  background-color: #722f37;
+  background-color: #000080;
   font-family: 'Raleway';
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #c0c0c0;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -130,7 +131,7 @@ p {
   }
 
   .intro-test{
-    left: 0;
+    left: -100px;
     width: 40%;
     position: absolute;
     margin-bottom: 3rem;
@@ -228,15 +229,15 @@ p {
 }
 
 .footer {
-  background-color: #722f37;
+  background-color: #000080;
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #000080 !important;
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #000080 !important;
 }
 
 .btn {
@@ -244,8 +245,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #000080;
+  border-color: #000080;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
