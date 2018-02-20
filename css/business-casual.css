@@ -35,7 +35,6 @@ p {
   display: block;
   font-size: 2rem;
   font-weight: 800;
-  color: #c0c0c0;
 }
 
 .site-heading .site-heading-lower {
@@ -138,6 +137,14 @@ p {
     top: 350px;
 
   }
+  .intro-test2{
+    left: -100px;
+    width: 40%;
+    position: absolute;
+    margin-bottom: 3rem;
+    top: 300px;
+
+  }
 }
 
 @media (min-width: 1200px) {
@@ -233,7 +240,7 @@ p {
 }
 
 .text-primary {
-  color: #000080 !important;
+  color: #ffe4e1 !important;
 }
 
 .bg-primary {
